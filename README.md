@@ -1,5 +1,5 @@
 👋 Hello, I'm On2Me!
-Welcome to my GitHub profile! I'm a passionate Cyber Security specialist from Landau in der Pfalz, Germany. I am always eager to learn new things and take on challenges to make digital systems more secure.
+Welcome to my GitHub profile! I'm a passionate Cyber Security specialist from Germany. I am always eager to learn new things and take on challenges to make digital systems more secure.
 
 🛡️ Expertise
 Penetration Testing: Skilled in conducting thorough security assessments to identify vulnerabilities and recommend mitigation strategies.
