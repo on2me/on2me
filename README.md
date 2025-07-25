@@ -1,7 +1,7 @@
 Hello, I'm On2Me!
 Welcome to my GitHub profile — thank you for stopping by. 
 
-I'm a learing Cyber Security Specialist based in Germany with a strong passion for all things security. Whether it's breaking systems to understand how they work or building robust defenses to protect them, I thrive on solving complex challenges and continuously learning in this ever-evolving field. 
+I'm a learing upcoming Cyber Security Specialist based in Germany with a strong passion for all things security. Whether it's breaking systems to understand how they work or building robust defenses to protect them, I thrive on solving complex challenges and continuously learning in this ever-evolving field. 
 
 Core Expertise  
 
